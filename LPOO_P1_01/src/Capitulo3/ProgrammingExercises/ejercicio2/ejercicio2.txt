@@ -1,0 +1,6 @@
+Suppose that a class named ClassA contains a private nonstatic integer named b, a public nonstatic integer named c, and a public static integer named d. Which of the following are legal statements in a class named ClassB that has instantiated an object as ClassA obA = new ClassA();? 
+
+a. obA.b = 12;    A)Invalido            d. ClassA.b = 4;      D)Invalido
+b. obA.c = 5;     B)Valido              e. ClassA.c = 33;     E)Invalido
+c. obA.d = 23;    C)Valido              f. ClassA.d = 99;     F)Valido
+ 

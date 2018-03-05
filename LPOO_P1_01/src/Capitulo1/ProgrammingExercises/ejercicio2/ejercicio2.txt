@@ -1,0 +1,4 @@
+2.Name at least three attributes that might be appropriate for each of the following classes:
+a. CruiseShip                       A) cantidad_De_Barcos_2a_Clase, cantidad_De_Barcos_1a_Clase, disponibilidad_De_Arribar ;
+b. InsurancePolicy                  B) tipos_De_Polizas , costos, caracteristicas
+c. StudentAcademicRecord            C) semestreCursados, calificaciones, materiasReporbadas 

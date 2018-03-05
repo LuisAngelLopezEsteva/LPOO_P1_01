@@ -1,0 +1,15 @@
+4. Name at least three classes to which each of these objects might belong:
+a. my Red Sweater
+clase 1: clothes
+clase 2: colors
+clase 3: coats
+
+b. london England
+clase 1: country
+clase 2: city 
+clase 3: capital
+
+c. thursdays Dinner
+clase 1: days of week
+clase 2: Food
+clase 3: Date

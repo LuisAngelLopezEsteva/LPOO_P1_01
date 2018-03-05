@@ -1,0 +1,14 @@
+3. Name at least three objects that are instances of each of the following classes:
+a. Song 
+    a.1 - Let her go
+    a.2 - All of me
+    a.3 - She will be loved 
+    
+b. BaseballTeam
+    b.1 -  Barry Bonds 
+    b.2 - Ted Williams 
+    b.3 - Hank Aaron
+c. Playwright
+    c.1 - William Shakespeare
+    c.2 - Anton Chekhov
+    c.3 - Henrik Ibsen

@@ -1,0 +1,8 @@
+ 
+1.For each of the following Java identifiers, note whether it is legal or illegal:
+a. budgetApproval       A)Valido            g. ssn#                             G)Invalido
+b. German Shepherd      B)Valido            h. 4999                             H)Invalido
+c. static               C)Invalido          i. 17                               I)Invalido
+d. HELLO                D)Valido            j. Accounts_Receivable              J)Valido
+e. 212AreaCode          E)Invalido          k. 32MPG                            K)Invalido
+f. qhu6TRfg             F)Valido            l. rulesOfOrder                     L)Valido 
